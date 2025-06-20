@@ -1,3 +1,3 @@
 # locadora-de-filme
 
-<img src="./filme.PNG">
+<img src= "./locadoradefilmes.PNG">
